@@ -1,2 +1,2 @@
-# doglover.github.io
+# dogloverme.github.io
 Website for doglover.me
